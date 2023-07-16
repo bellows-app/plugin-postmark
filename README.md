@@ -1,3 +1,3 @@
-# plugin-postmark
+# Bellows Postmark Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/postmark](https://bellows.dev/docs/plugins/postmark)
